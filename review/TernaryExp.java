@@ -8,8 +8,7 @@ public class TernaryExp {
 
     answer = isBenahin ? "Benahin" : "not Benahin";
 
-    System.out.println(name + " is " + answer);
-
+    System.out.println(name + " is " + answer); 
     /* this is another way to condition check
 
     for example : if-else way to check
